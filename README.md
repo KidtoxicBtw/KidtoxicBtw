@@ -2,7 +2,7 @@
 - 👀 I’m interested in lua
 - 🌱 I’m currently learning lua lol
 - 💞️ I’m looking to collaborate on bedrockware
-- 📫 How to reach me? my discord is @.kidtoxic
+- 📫 How to reach me? my discord is @kidtoxicyt
 
 <!---
 KidtoxicBtw/KidtoxicBtw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
